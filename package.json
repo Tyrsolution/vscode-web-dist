@@ -1,0 +1,10 @@
+{
+  "name": "vscode-web-dist",
+  "version": "1.0.0",
+  "description": "vscode web dist files",
+  "main": "index.js",
+  "repository": "https://github.com/Tyrsoluton/vscode-web-dist.git",
+  "author": "Matthew Marino <matthew.asdos@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
